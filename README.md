@@ -1,5 +1,5 @@
 # A Forest Walk
-A hack-and-slash roguelite made in Unity/C#.
+A hack-and-slash roguelite made in Unity/C#. Play it [here](https://kalechipps.itch.io/a-forest-walk)!
 
 Check out my <a href="https://www.youtube.com/kalechippsdev" target="_blank">Youtube channel</a>, where I devlogged the entire process of making this game!
 

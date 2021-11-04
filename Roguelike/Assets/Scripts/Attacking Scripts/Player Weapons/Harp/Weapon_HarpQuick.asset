@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7e7bd9cf7c174f49bf6dcdc097637f2, type: 3}
+  m_Name: Weapon_HarpQuick
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 92a37b577ed05a44380b9589b459b544, type: 3}
+  size: 1
+  comboResetTime: 1
+  autoFire: 1
+  myAttacks:
+  - {fileID: 11400000, guid: d6461bf170a76f24694bee22abc4f79a, type: 2}
+  weaponName: 
+  damage: 
+  weaponDescription: 
+  flavor: 
+  associatedItem: {fileID: 0}

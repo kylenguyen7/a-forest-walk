@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10dcf9a6c821bd24ab6e212499e8509a, type: 3}
+  m_Name: Projectile_MagicMissile
+  m_EditorClassIdentifier: 
+  lifetime: 2
+  speed: 8
+  drag: 0
+  sprite: {fileID: 21300000, guid: 40ab1356be5f2c14389003b2ca87451b, type: 3}
+  optionalAnimator: {fileID: 0}
+  damage: 2
+  damageVariance: 0.5
+  knockback: 0.5
+  size: 0.5
+  isPiercing: 0
+  spread: 20
+  trail: 1
+  glow: 1
+  doHitEffects: 0
+  impactSfx: {fileID: 8300000, guid: 66f10ac39f3e794438ca2aaa0cf0214b, type: 3}
+  collisionTags:
+  - Enemy
+  myPath: 4
+  optionalHomingSearch: 1
+  statusEffectInfo:
+    effect: 0
+    severity: 0
+    duration: 0
